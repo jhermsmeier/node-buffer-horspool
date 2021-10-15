@@ -1,0 +1,22 @@
+{
+  "name": "buffer-horspool",
+  "version": "1.0.0",
+  "description": "A simple implementation of the Boyer-Moore-Horspool string search algorithm for use with buffers or typed arrays",
+  "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de)",
+  "license": "MIT",
+  "main": "index.js",
+  "homepage": "https://github.com/jhermsmeier/node-buffer-horspool#readme",
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-buffer-horspool/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhermsmeier/node-buffer-horspool.git"
+  },
+  "scripts": {},
+  "keywords": [
+    "boyer-moore-horspool", "bmh", "boyer", "moore", "horspool",
+    "string", "substring", "search", "indexOf", "lastIndexOf",
+    "buffer", "lookup", "pattern"
+  ]
+}
