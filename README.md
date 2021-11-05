@@ -1,4 +1,7 @@
 # Buffer-Horspool
+[![npm](https://img.shields.io/npm/v/buffer-horspool.svg?style=flat-square)](https://npmjs.com/package/buffer-horspool)
+[![npm license](https://img.shields.io/npm/l/buffer-horspool.svg?style=flat-square)](https://npmjs.com/package/buffer-horspool)
+[![npm downloads](https://img.shields.io/npm/dm/buffer-horspool.svg?style=flat-square)](https://npmjs.com/package/buffer-horspool)
 
 ## Note
 
